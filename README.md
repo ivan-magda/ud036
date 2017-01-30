@@ -1,4 +1,4 @@
-# Programming Foundations with Python - ud036 - Udacity  
+# Programming Foundations with Python
 Check out this [course](https://www.udacity.com/course/programming-foundations-with-python--ud036) for additional information.
 
 ## About this Course
